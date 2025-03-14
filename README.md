@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="pack.png"
+  <img src="pack.png" alt="Opposition" width=200 />
 </p>
 
 # Meme-or-funkAlt
