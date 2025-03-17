@@ -1,3 +1,7 @@
+# v0.1.2 (X)
+The Menu Changelog:
+- Added GDH Mod
+
 # v0.1.1
 The Menu Changelog:
 - Megahack Button
