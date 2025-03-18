@@ -8,7 +8,7 @@ GD Meme o funk es versión Alt en otras ocasiones
 
 Descargar en Steam [GD](https://store.steampowered.com/app/322170/Geometry_Dash/)
 
-¡Próximamente sitio web!
+Versión original [Código fuente](https://github.com/OppositionStridentCrisis/Meme-or-funk)
 
 # ¡¡NO ES UN MOD DE GEODE!!
 Antes no usaba el mod geode porque es la versión alternativa
