@@ -1,17 +1,1 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Memeorfunks</title>
-</head>
-<body>
-    <h1>MEME OR FUNK VERSION</h1>
-    <p>Welcome to meme or funk. GO TO GITHUB WEBSITE NOW!</p>
-    <form action="https://github.com/OppositionStridentCrisis/Meme-or-funk">
-        <button type="submit">Github Original</button>
-      </form>
-    <form action="https://github.com/OppositionStridentCrisis/Meme-or-funkAlt">
-        <button type="submit">Github Alt</button>
-      </form>
-
-</body>
-</html>
+memeorfunks.org
